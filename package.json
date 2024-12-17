@@ -1,0 +1,37 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "a node js tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sudrukpooja/sudrukpooja.git"
+  },
+  "keywords": [
+    "code",
+    "step",
+    "by",
+    "step"
+  ],
+  "author": "pooja",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sudrukpooja/sudrukpooja/issues"
+  },
+  "homepage": "https://github.com/sudrukpooja/sudrukpooja#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "lodash": "^4.17.21",
+    "mongoose": "^8.8.2",
+    "nodemon": "^3.1.7",
+    "prompt-sync": "^4.2.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
