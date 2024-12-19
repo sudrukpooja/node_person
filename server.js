@@ -25,5 +25,5 @@ app.use('/menu', menuRoutes);
 
 
 app.listen(PORT ,()=>{
-    console.log('listing on port 30000')
+    console.log('listing on port 3000')
 })
